@@ -31,7 +31,8 @@ https://dna-rna-sequence-analyser-7ua8nxjjnnb2hrsh4jzqt8.streamlit.app/
 
 ## Example Input
 Example (FASTA format):
-<pre> ``` >Example_Sequence ATGCGTAGCTAGCTACGATCGATCGTAGCTAGCTAGCTACGATCG ``` </pre>
+<pre> >Example_Sequence '
+   ATGCGTAGCTAGCTACGATCGATCGTAGCTAGCTAGCTACGATCG </pre>
 
 ## Technologies Used
 - Python
