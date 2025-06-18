@@ -31,8 +31,7 @@ https://dna-rna-sequence-analyser-7ua8nxjjnnb2hrsh4jzqt8.streamlit.app/
 
 ## Example Input
 Example (FASTA format):
-> >Example_Sequence
-
+> Example_Sequence
 ATGCGTAGCTAGCTACGATCGATCGTAGCTAGCTAGCTACGATCG
 
 ## Technologies Used
