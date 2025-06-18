@@ -1,5 +1,5 @@
-# DNA/RNA Sequence Analyzer
-This is a simple web app for analyzing DNA or RNA sequences. It supports FASTA and FASTQ file formats and provides useful sequence statistics such as GC content, reverse complement, transcription, translation, and longest ORF detection. Built using Python, Biopython, and Streamlit.
+# DNA/RNA Sequence Analyser
+This is a simple web app for analysing DNA or RNA sequences. It supports FASTA and FASTQ file formats and provides useful sequence statistics such as GC content, reverse complement, transcription, translation, and longest ORF detection. Built using Python, Biopython, and Streamlit.
 
 ## Live Demo
 You can try the app here:  
@@ -14,11 +14,11 @@ https://dna-rna-sequence-analyser-7ua8nxjjnnb2hrsh4jzqt8.streamlit.app/
 - Base composition (A/T/G/C or A/U/G/C)
 - Reverse complement and transcription
 - Translation to protein (until first stop codon and full sequence)
-- - Longest ORF (Open Reading Frame) finder on forward strand
+- Longest ORF (Open Reading Frame) finder on forward strand
 
 ## How to Run Locally
 1. Clone the repository:
-   git clone https://github.com/aaryomics/dna-rna-sequence-analyzer.git
+   git clone https://github.com/aaryomics/dna-rna-sequence-analyser.git
    cd dna-rna-sequence-analyzer
 
 2. Install dependencies:
@@ -27,7 +27,7 @@ https://dna-rna-sequence-analyser-7ua8nxjjnnb2hrsh4jzqt8.streamlit.app/
 3. Start the Streamlit app:
    streamlit run streamlit_app.py
    
-   The app will open in your browser at `http://localhost:8501`.
+   The app will open in your browser.
 
 ## Example Input
 Example (FASTA format):
